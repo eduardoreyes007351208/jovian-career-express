@@ -1,3 +1,7 @@
 {
-    "ext": "js,html,css,png,jpg,jpeg"
+    "ext": "js,html,css,png,jpg,jpeg",
+    "env": {
+        "EMAIL_ID" : "exbee3rd@gmail.com",
+        "EMAIL_PASSWORD" : "tkbzvjykqfmlipfc"
+    }
 }
