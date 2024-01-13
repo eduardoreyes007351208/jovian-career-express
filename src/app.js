@@ -1,5 +1,4 @@
-const dtenv = require('dotenv');
-dtenv.config();
+require('dotenv').config();
 const nodemailer = require('nodemailer');
 const bodyParser = require('body-parser');
 
